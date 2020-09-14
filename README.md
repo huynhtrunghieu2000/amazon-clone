@@ -1,3 +1,7 @@
+You can visit here for the first look: https://clone-89b1a.firebaseapp.com/
+
+Guided by Clever Programmmer 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
