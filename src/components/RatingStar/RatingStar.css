@@ -1,0 +1,5 @@
+.ratingStar {
+  display: flex;
+  color: yellow;
+  stroke: rgb(189, 189, 189);
+}

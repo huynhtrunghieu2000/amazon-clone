@@ -1,0 +1,29 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  height: max-content;
+  background-color: white;
+}
+
+.checkout__left {
+  width: 65%;
+  margin: 0 10px;
+  padding-right: 10px;
+  transition-property: height;
+  transition-duration: 2s;
+}
+
+.checkout__left__header {
+  border-bottom: 1px solid lightgray;
+}
+.checkout__left__header > p {
+  font-size: 13px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -5px;
+}
+
+.checkout__left__footer {
+  display: flex;
+  justify-content: flex-end;
+}
