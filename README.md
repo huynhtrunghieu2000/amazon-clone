@@ -1,4 +1,14 @@
-You can visit here for the first look: https://clone-89b1a.firebaseapp.com/
+## Infomation
+
+Deployed on: https://clone-89b1a.firebaseapp.com/
+Self-study project using ReactJS, Redux to manage shopping page with UI like Amazon
+
+### Features
+
+- Show product list
+- Shopping cart management: Add to cart, Subtotal calculate
+- Using Firebase Authentication for Sign In
+- Firebase Hosting for deployment
 
 Guided by Clever Programmmer 
 
